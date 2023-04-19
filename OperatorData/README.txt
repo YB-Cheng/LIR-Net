@@ -1,0 +1,1 @@
+Referred to the paper"AAPM DL-Sparse-View CT Challenge Submission Report: Designing an Iterative Network for Fanbeam-CT with Unknown Geometry", and you could get more help from it.
